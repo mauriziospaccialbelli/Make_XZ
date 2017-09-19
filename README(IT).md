@@ -1,10 +1,14 @@
+**ITALIANO** / [ENGLISH](README.md)
+
 Make XZ è il primo progetto nato in www.3dingegno.com da MaurinoWeb e Marco Spaccialbelli. È una stampante 3D precisa e silenziosa, e può avere diverse configurazioni grazie ai diversi moduli e al supporto nativo per il doppio carrello X e multimateriale.
 
-Per esempio: fino a 7 colori con un carrello X. fino a 6 colori da dividere su due carrelli X. carrelli X indipendenti o in copia. Utilizzare filamenti con diversi diametri durante la stampa.
+Per esempio: fino a 7 colori con un carrello X. fino a 6 colori da dividere su due carrelli X. Carrelli X indipendenti o in copia. Utilizzare filamenti con diversi diametri durante la stampa.
 
 La struttura in v-slot è rigida e silenziosa, anche l'elettronica è silenziosa!
 
-La Make XZ è in pieno sviluppo e c'è ancora molto da fare...
+>La Make XZ è in pieno sviluppo e c'è ancora molto da fare...
+
+![stampante 3d make xz](http://www.3dingegno.com/wp-content/uploads/2017/09/3d-printer-make-xz.jpg)
 
 Stiamo sviluppando documentazione, manuali di installazione e file per la calibrazione ... tutti saranno condivisi presto.
 
@@ -54,7 +58,7 @@ Grazie alle caratteristiche e ai componenti di Make XZ, è possibile stampare la
 Tutti i progetti nati in 3dingegno.com sono sviluppati e mantenuti solo con free software e opensource. dove possiamo utiliziamo open hardware, per esempio openbuilds e duet wifi.
 
 Ringraziamo tutti i progetti free software e opensource di tutto il pianeta.
-Un rigraziamento speciale alle comunita di RepRap, Duet3d, FreeCAD, blender.
+Un rigraziamento speciale alle comunita di [RepRap](http://forums.reprap.org/index.php), [Duet3d](https://www.duet3d.com/forum/), [FreeCAD](https://forum.freecadweb.org/).
 
 In tutte le immagini mancano la maggior parte delle viti a altri dettagli, presto le prime foto e video della Make XZ.
 
