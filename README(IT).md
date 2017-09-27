@@ -22,7 +22,7 @@ Vediamo le principali caratteristiche della Make XZ:
 
 Predisposizione per una facile chiusura. (work in progress)
 
-Elettronica: Duet Wifi(link a duet3d) con la possibilità di usare le schede di espansione Duex2 e Duex5, il touch screen "panel due" da 4.3/5/7 pollici.
+Elettronica: [Duet Wifi](https://www.duet3d.com/DuetWifi) con la possibilità di usare le schede di espansione Duex2 e Duex5, il touch screen "panel due" da 4.3/5/7 pollici.
 
 Predisposta per il doppio carrello X (X1 e X2).
 
