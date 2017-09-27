@@ -1,6 +1,6 @@
 **ENGLISH** / [ITALIANO](README(IT).md)
 
-Make XZ is the first project 3D printer born in 3Dingegno.com by MaurinoWeb and Marco Spaccialbelli. Is a precise and silent 3d printer with different configurations thanks to the different modules and native support for the dual X carriage and multimaterial.
+Make XZ is the first project 3D printer born in [3Dingegno.com](http://www.3dingegno.com/stampa-3d/3d-printer-make-xz/) by MaurinoWeb and Marco Spaccialbelli. Is a precise and silent 3d printer with different configurations thanks to the different modules and native support for the dual X carriage and multimaterial.
 
 For example: Up to 7 colors with one X carriage. Up to 6 colors to divide for two x carriages. Double X carriage independent or in copy. Use filaments with different diameters during printing.
 
@@ -16,13 +16,13 @@ The printable models file are already available, but in the final version they m
 
 All parts of this 3D printer are Open Source and are part of the RepRap project. Can Replicate all its components excluding only: bolts, nuts, screws, electronics, bearings and aluminum profiles (Laser cutting is not required).
 
-You can follow the project on 3dingegno.com e altri link
+You can follow the project on [3Dingegno.com](http://www.3dingegno.com/stampa-3d/3d-printer-make-xz/).
 
 Main features of the Make XZ:
 
 Ready for easy closure (work in progress)
 	
-Electronics: Duet WiFi(link) with possibility to use Duex2 and Duex5 expansion boards, and the touch screen "PanelDue" 4.3 / 5/7 inch.
+Electronics: [Duet Wifi](https://www.duet3d.com/DuetWifi) with possibility to use Duex2 and Duex5 expansion boards, and the touch screen "PanelDue" 4.3 / 5/7 inch.
 
 Predisposed for double X carriage (X1 and X2).
 
