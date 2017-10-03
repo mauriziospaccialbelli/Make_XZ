@@ -51,14 +51,15 @@ The heated plate is removable in aluminum with PEI sheet.
 
 The frame is rigid because we have chosen v-slot profiles by openbuilds, but instead of using Eccentric Spacer for v-wheels, we used other systems.
 
-We are testing a extruder for 1.75mm / 2.85mm interchangeable bowden with steps filament pressure, that use Geared Stepper Motor In addition to ensuring a excellent extrusion, you can easily share the settings of materials
+We are testing a extruder for 1.75mm/2.85mm interchangeable bowden with steps filament pressure, that use Geared Stepper Motor.
+In addition to ensuring a excellent extrusion, you can easily share the settings of materials
 
 Thanks to the features and components of Make XZ, you can print most types of filaments, including technical/special. Any material that is being tested then added to the list of calibrated materials, we are creating a macro containing all the calibrated materials settings to quickly set up the materials.
 
 All projects born in 3dingegno.com are developed and maintained only with free software and opensource. Where we can use open hardware, for example openbuilds and duet wifi.
 
 Thanks to all free software and opensource projects around the globe.
-Special thanks to the community of [RepRap](http://forums.reprap.org/index.php), [Duet3d](https://www.duet3d.com/forum/), [FreeCAD](https://forum.freecadweb.org/).
+Special thanks to the community of [RepRap](http://forums.reprap.org/index.php), [Duet3d](https://www.duet3d.com/forum/), [FreeCAD](https://forum.freecadweb.org/), [OpenBuilds](http://openbuilds.org/).
 
 Sorry for bad english, we're working on it :-)
 
