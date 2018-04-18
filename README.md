@@ -14,7 +14,7 @@ Can Replicate all its components excluding only: bolts, nuts, screws, electronic
 
 You can follow the project on [3Dingegno.com](http://www.3dingegno.com/stampa-3d/3d-printer-make-xz/).
 
-####Main features of the Make XZ:
+#### Main features of the Make XZ:
 
 - Easy to close (everything is inside the structure, you only need to screw the panels on the structure!!)
 	
