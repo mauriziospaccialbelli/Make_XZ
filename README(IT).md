@@ -14,7 +14,7 @@ Puoi replicare tutti i suoi componenti, esclusi: bulloni, dadi, viti, elettronic
 
 Puoi seguire il progetto su www.3dingegno.com github ecc...
 
-####Vediamo le principali caratteristiche della Make XZ:
+#### Vediamo le principali caratteristiche della Make XZ:
 
 - Facile da chiudere (tutto è all'interno della struttura, hai solo bisogno di avvitare i pannelli sulla struttura!).
 
