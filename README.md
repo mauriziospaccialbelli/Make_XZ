@@ -1,5 +1,7 @@
 **ENGLISH** / [ITALIANO](README(IT).md)
 
+Support the 3D ingegno project "born to be free" by [Patreon](https://www.patreon.com/3Dingegno) or [Liberapay](https://it.liberapay.com/3Dingegno/)
+
 The Make XZ is a Cartesian 3D printer with a double X carriage that uses openbuilds profiles and the duet wifi board... in addition to being precise and silent, has several interesting features.
 
 The Make XZ can have different configurations thanks to the different modules and the native support for the double X carriage.
@@ -9,8 +11,6 @@ The Make XZ can have different configurations thanks to the different modules an
 We are developing documentation, installation manual and files for calibration.
 
 Can Replicate all its components excluding only: bolts, nuts, screws, electronics, bearings and aluminum profiles (Laser cutting is not required).
-
-You can follow the project on [3Dingegno.com](http://www.3dingegno.com/stampa-3d/3d-printer-make-xz/).
 
 #### Main features of the Make XZ:
 
