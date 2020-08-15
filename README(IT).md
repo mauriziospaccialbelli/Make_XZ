@@ -1,5 +1,7 @@
 **ITALIANO** / [ENGLISH](README.md)
 
+Sostieni il progetto 3Dingegno "Born to be Free" da [Patreon](https://www.patreon.com/3Dingegno) o [Liberapay](https://it.liberapay.com/3Dingegno/)
+
 La Make XZ è una stampante 3D cartesiana con doppio carrello X che usa i profili di openbuilds e la scheda duet wifi... oltre ad essere precisa e silenziosa, ha diverse caratteristiche interessanti.
 
 La Make XZ può avere diverse configurazioni grazie ai diversi moduli e al supporto nativo per il doppio carrello X.
