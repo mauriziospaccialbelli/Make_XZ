@@ -4,11 +4,9 @@ The Make XZ is a Cartesian 3D printer with a double X carriage that uses openbui
 
 The Make XZ can have different configurations thanks to the different modules and the native support for the double X carriage.
 
-For example: Up to 7 colors with one X carriage. Up to 6 colors to divide for two x carriages. Double X carriage independent or in copy. Use filaments with different diameters during printing.
+>The Make XZ is in full development, we want to test the multi-material.
 
->The Make XZ is in full development, we want to test the multi-material as soon as possible.
-
-We are developing documentation, installation manual and files for calibration... all will be shared as soon as possible.
+We are developing documentation, installation manual and files for calibration.
 
 Can Replicate all its components excluding only: bolts, nuts, screws, electronics, bearings and aluminum profiles (Laser cutting is not required).
 
@@ -27,11 +25,9 @@ You can follow the project on [3Dingegno.com](http://www.3dingegno.com/stampa-3d
 
 - The bearings on motors axes (X1/X2, Y, Z).
 
-- Z sistem with one Z motor, closed belt and two trapezoidal screw Tr8 * 8-2p (4 starts). Less calibrations, more synchronization.
-
 - Beld tensioner on each axis.
 
-- Module X1 and X2: The first X module that mount the Make XZ, uses e3dv6 hotend with inductive probe for the hot bed (soon, we change the type of probe). The probes cross and reach only 40mm of offset between the modules "e3dv6_X1" and "e3dv6_X2". The e3dv6 module has two secondary modules: multimaterial module and fan nozzle module.
+- Module X1 and X2: The first X module that mount the Make XZ, uses e3dv6 hotend with ZPrep probe born in 3Dingegno.
 
 - Module multimaterial: Multimaterial module (work in progress) allows you to have different combo for the multimaterial with both X module, with double carriage things become even more interesting. However now we want to test a different approach... too many bowden tubes do not like us.
 
