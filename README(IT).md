@@ -4,15 +4,11 @@ La Make XZ è una stampante 3D cartesiana con doppio carrello X che usa i profil
 
 La Make XZ può avere diverse configurazioni grazie ai diversi moduli e al supporto nativo per il doppio carrello X.
 
-Per esempio: Fino a 7 colori con un carrello X, fino a 6 colori da dividere su due carrelli X, carrelli X indipendenti o in copia, utilizzare filamenti con diversi diametri durante la stampa ect...
+>La Make XZ è in pieno sviluppo, vogliamo testare il multimateriale.
 
->La Make XZ è in pieno sviluppo, vogliamo testare il multimateriale il più presto possibile.
-
-Stiamo sviluppando documentazione, manuali di installazione e file per la calibrazione ... tutti saranno condivisi prima possibile.
+Stiamo sviluppando documentazione, manuali di installazione e file per la calibrazione.
 
 Puoi replicare tutti i suoi componenti, esclusi: bulloni, dadi, viti, elettronica, cuscinetti e profili in alluminio (taglio laser non è necessario).
-
-Puoi seguire il progetto su www.3dingegno.com github ecc...
 
 #### Vediamo le principali caratteristiche della Make XZ:
 
@@ -27,11 +23,9 @@ Puoi seguire il progetto su www.3dingegno.com github ecc...
 
 - Cuscinetti su ogni asse dei motori (X1, X2, Y, Z).
 
-- Sistema Z con un motore, cinghia chiusa e due barre trapezoidali TR8 * 8-2p (4 starts). Meno calibrazioni, più sincronizzazione.
-
 - Tensionamento cinghie su ogni asse.
 
-- Modulo X1 e X2: Il primo modulo che monta la Make XZ, usa hotend e3dv6 con sonda  ZPRep di nostra progettazione. Le sonde Z si incrociano e arrivano fino a 40mm di offset tra il moduli e3dv6_X1 e e3dv6_X2. Il modulo e3dv6 ha due moduli secondari: multimaterial module and fan nozzle module.
+- Modulo X1 e X2: Il primo modulo che monta la Make XZ, usa hotend e3dv6 con sonda ZPRep nara in 3Dingegno.
 
 - Module multi materials: Multi material module (work in progress) consente di avere diverse combo per il multimateriale su entrambi i moduli X. Con il doppio carrello X le cose diventano ancora più interessanti. Comunque ora vogliamo testare un approccio diverso... troppi tubi bowden non ci piacciono.
 
